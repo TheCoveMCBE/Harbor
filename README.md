@@ -4,8 +4,8 @@
 			<img src="https://github.com/pmmp/PocketMine-MP/blob/stable/.github/readme/pocketmine.png" alt="The PocketMine-MP logo" title="PocketMine" loading="eager" />
 		<![endif]-->
 		<picture>
-			<source srcset="https://raw.githubusercontent.com/TheCoveMCBE/TheCove-MP/refs/heads/stable/.github/readme/the_cove_pmmp.png" media="(prefers-color-scheme: dark)">
-			<img src="https://raw.githubusercontent.com/TheCoveMCBE/TheCove-MP/refs/heads/stable/.github/readme/the_cove_pmmp.png" loading="eager" />
+			<source srcset="https://raw.githubusercontent.com/TheCoveMCBE/TheCove-MP/refs/heads/stable/.github/readme/harbor.png" media="(prefers-color-scheme: dark)">
+			<img src="https://raw.githubusercontent.com/TheCoveMCBE/TheCove-MP/refs/heads/stable/.github/readme/harbor.png" loading="eager" />
 		</picture>
 	</a><br>
 	<b>A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP</b>
@@ -66,17 +66,6 @@ PocketMine-MP accepts community contributions! The following resources will be u
  * [Contributing Guidelines](CONTRIBUTING.md)
 
 New here? Check out [issues with the "Easy task" label](https://github.com/pmmp/PocketMine-MP/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Easy%20task%22) for things you could work to familiarise yourself with the codebase.
-
-## Donate
-PocketMine-MP is free, but it requires a lot of time and effort from unpaid volunteers to develop. Donations enable us to keep delivering support for new versions and adding features your players love.
-
-You can support development using the following methods:
-
-- [Patreon](https://www.patreon.com/pocketminemp)
-- Bitcoin (BTC): `bc1q2v5ngyf8ugyd55kqa9ep35g2rv342ueqm6ks33`
-- Stellar Lumens (XLM): `GAAC5WZ33HCTE3BFJFZJXONMEIBNHFLBXM2HJVAZHXXPYA3HP5XPPS7T`
-
-Thanks for your support!
 
 ## Licensing information
 This project is licensed under LGPL-3.0. Please see the [LICENSE](/LICENSE) file for details.
